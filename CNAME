@@ -2,9 +2,6 @@ bilshop.com
 <!DOCTYPE html>
 <html lang="en">
 <head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>My Website</title>
     <!-- Meta Pixel Code -->
 <script>
 !function(f,b,e,v,n,t,s)
@@ -22,6 +19,5 @@ fbq('track', 'PageView');
 src="https://www.facebook.com/tr?id=704845828599877&ev=PageView&noscript=1"
 /></noscript>
 <!-- End Meta Pixel Code -->
-    </script>
-    <noscript><img height="1" width="1" style="display:none" src="https://www.facebook.com/tr?id=YOUR_PIXEL_ID&ev=PageView&noscript=1"
+ 
 
